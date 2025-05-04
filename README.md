@@ -23,7 +23,7 @@ src/
 1. Clone the repository:
    ```bash
      git clone https://github.com/tarsila-byte/multiplication-table.git
-     cd simple-calculator
+     cd multiplication-table
    ```
 2. Compile and run the `Main` class located at `src/Main.java`.
 
