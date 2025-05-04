@@ -1,5 +1,5 @@
 # 📊 Java Multiplication Table CLI  
-A simple command-line Java program that displays the multiplication table for a user-provided number, including support for negative values. Features input validation and a delay between each result to enhance readability.
+A simple command-line Java program that displays the multiplication table for a user-provided number, including support for negative values.
 
 ## 📌 Features  
 - Accepts both positive and negative numbers  
